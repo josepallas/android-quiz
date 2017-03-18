@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="question_text">El Prisionero de Azkaban es la mejor película de Harry Potter.</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Eres un muggle!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aciertos_text">Aciertos = </string>
+
+</resources>
